@@ -1,0 +1,5 @@
+Installation directions:  Unzip the file and place the advisor folder in the siteroot/report directory.  
+
+click on Notifications from the site admin menu.  
+
+Upon successful installation, You should see Student advisors in the Site Admin | Report menu.
