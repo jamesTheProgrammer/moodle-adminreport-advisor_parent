@@ -14,8 +14,14 @@ the user context allows you to add/associate the role to a student account(s).
 
 When the new role(s) are set up, you can add/associate them to many student accounts.  A parent, advisor or mentor can have one or many accounts associated to it.
 
+PDF file to help the person in the role of parent / advisor / tutor.
+
+http://studentmoodle.accelerateu.org/student/mod/resource/view.php?id=84232
+
 Blog posts that provide more detail of the advisor/parent/tutor role
 
 http://james-moodle.blogspot.com/2013/04/setting-up-advisor-in-moodle.html
+
 http://james-moodle.blogspot.com/2013/04/steps-to-setting-up-account-in-advisor.html
+
 http://james-moodle.blogspot.com/2013/04/advisor-role-from-concept-to.html
