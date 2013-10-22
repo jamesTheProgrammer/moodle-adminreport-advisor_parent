@@ -3,3 +3,6 @@ Installation directions:  Unzip the file and place the advisor folder in the sit
 click on Notifications from the site admin menu.  
 
 Upon successful installation, You should see Student advisors in the Site Admin | Report menu.
+
+Note: you must create a folder called lang and then a folder within lang called en where you must move the file called report_advisor.php
+
