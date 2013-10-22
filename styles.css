@@ -1,0 +1,40 @@
+#div1{
+     float:left;
+     width:60%
+}
+
+#dive2{
+     float:left;
+     width:39%
+}
+
+#emph{
+     font-size:1.1em;
+     font-weight:bolder;
+}
+
+#advisorList{
+     margin:5px 0 10px 5px;
+}
+
+.title{
+     color:red;
+     weight:bold;
+}
+
+.generaltable tr td{
+     font-size:.9em;
+}
+
+.rows2{
+     background-color: #EFEFEF;
+     font-size:.9em;
+}
+
+.rows{
+     font-size:.9em;
+}
+
+.smaller{
+     font-size:.9em;
+}
