@@ -69,7 +69,7 @@ require_login($course);
 $context = get_context_instance(CONTEXT_COURSE, $course->id);
 
 if ($hostid != $CFG->mnet_localhost_id || $course->id == SITEID) {
-    admin_externalpage_setup('reportlog', '', null, '', array('pagelayout'=>'report'));
+    admin_externalpage_setup('reportadvisor', '', null, '', array('pagelayout'=>'report'));
     echo $OUTPUT->header();
 } else {
     $PAGE->set_title($course->shortname .': '. $strlogs);
